@@ -5,3 +5,4 @@ This project was given by a ride-sharing company called PyBer. The overall purpo
 
 ## Results
 ![](Resources/Deliverable%201%20Final%20Table__%20A%20ride-sharing%20summary%20DataFrame%20by%20city%20type.PNG)
+![](Resources/PyBer_fare_summary.png)
